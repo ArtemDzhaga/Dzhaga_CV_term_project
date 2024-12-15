@@ -1,6 +1,6 @@
 # Dzhaga_CV_term_project
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Курсовая+работа+по+CV+Джага+Артема+и+Зориной+Анастасии)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=1000&lines=Курсовая+работа+по+CV+Джага+Артема+и+Зориной+Анастасии)](https://git.io/typing-svg)
 
 Вам для улыбки:
 
